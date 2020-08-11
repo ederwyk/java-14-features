@@ -6,6 +6,9 @@ public class TextBlock {
 		return """
 				Meu text block...
 					cool ;)
+					tirando a quebra de \
+					linha
+					mantendo os espaços no final     \s
 				""";
 	}
 	
